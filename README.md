@@ -1,4 +1,4 @@
-# ysf.sabir
+# ESP32-Password-Manager
 
 A small ESP32-based password-vault and TOTP interface with a TFT screen, physical buttons, a local Wi-Fi configuration portal, and USB HID keyboard output.
 
