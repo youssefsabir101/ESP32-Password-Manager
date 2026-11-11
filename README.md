@@ -4,7 +4,7 @@ A small ESP32-based password-vault and TOTP interface with a TFT screen, physica
 
 > **Important:** This repository contains firmware source code, not a finished or audited password manager. Review the code and secure all credentials before using it with real accounts.
 
-![Device photo](assets/device.jpg)
+
 
 ## Features
 
@@ -21,8 +21,8 @@ A small ESP32-based password-vault and TOTP interface with a TFT screen, physica
 ## Project structure
 
 ```text
-ysf-sabir/
-├── ysf_sabir.ino
+passman/
+├── passman.ino
 ├── README.md
 └── assets/
     └── device.jpg
